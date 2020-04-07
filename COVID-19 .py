@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[5]:
-
-
 #Analysis of number of confirmed cases of COVID19, as of 28th March, 2020.
 import sys; sys.path
 import numpy as np 
@@ -44,7 +38,7 @@ fig.update_layout(
 #End
 
 
-# In[6]:
+#Animated Visualization
 
 
 #Analysis of number of confirmed cases of COVID19, as of 3rd April, 2020.
@@ -84,9 +78,6 @@ fig.update_layout(
     
 fig.show()
 #End
-
-
-# In[ ]:
 
 
 
